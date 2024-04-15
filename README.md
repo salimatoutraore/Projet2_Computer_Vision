@@ -1,3 +1,6 @@
+
+# Projet 2 : Domain adaptation: MNIST to SVHN
+
 The challenge of this work is to transfer the knowledge from a model trained on the MNIST dataset, which consists of black and white handwritten digit images, to accurately classify images from the SVHN dataset, which contains color images of digits from house numbers.
 
 The primary objective of this project is to develop a system capable of effectively classifying images from the SVHN dataset using only the knowledge and labels from the MNIST dataset, without access to SVHN labels during training. Given the distinct differences between these two datasets—notably, that they are unpaired and belong to separate domains—we have chosen to implement a CycleGAN approach. CycleGAN allows for domain adaptation through unpaired data by learning to map relationships between two distinct domains. Its GAN-based architecture is particularly adept at capturing
