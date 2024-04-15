@@ -10,4 +10,4 @@ The effectiveness of our model is quantified through its classification accuracy
 We aim to optimize this accuracy by experimenting with various hyperparameters, including the num-
 ber of training iterations, learning rates, and optimizer choices.
 
-Work carried out as part of a Computer Vision course at ENSTA Paris in collaboration with Yuchen Xia. 
+Work carried out as part of a Computer Vision course at ENSTA Paris in collaboration with Yuchen Xia @xiaYC35. 
